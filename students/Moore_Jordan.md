@@ -1,4 +1,8 @@
-- The title of the last paper I read was called Expectations, Outcomes, and Challenges of Modern Code Review. 
-- This paper originated from the University of Lugano, Switzerland with contributers from Washington, USA.
-- 10 pages in the paper
-- https://sback.it/publications/icse2013.pdf
+# Title: The Cathedral and the Bazaar
+
+# Venue (journal name/conference): The Cathedral and the Bazaar
+
+#Number of pages: 35
+
+#Link to the paper: http://www.catb.org/esr/writings/cathedral-bazaar/
+
